@@ -159,7 +159,7 @@ Isso permite ações concretas: "esse cliente tem alto risco de churn porque nun
 ```bash
 pip install pandas lightgbm scikit-learn shap optuna openpyxl matplotlib
 ```
-3. Execute o notebook `churn_analysis.ipynb` na ordem das células
+3. Execute o notebook `Churn.ipynb` na ordem das células
 
 ---
 
