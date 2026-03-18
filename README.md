@@ -157,7 +157,7 @@ Isso permite ações concretas: "esse cliente tem alto risco de churn porque nun
 1. Faça o download do dataset no link acima e salve como `Online Retail.xlsx`
 2. Instale as dependências:
 ```bash
-pip install pandas lightgbm scikit-learn shap optuna openpyxl
+pip install pandas lightgbm scikit-learn shap optuna openpyxl matplotlib
 ```
 3. Execute o notebook `churn_analysis.ipynb` na ordem das células
 
